@@ -3,22 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-清远 | 碧桂园·未来城入住指南
+交通篇
 ===========================================
 
 .. toctree::
    :maxdepth: 2
 
-   intro/index
-   life/index
-   traffic/index
-   about
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   airplane
+   railway
+   bus
+   self-driving
+   bike
+   
