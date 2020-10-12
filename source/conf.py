@@ -67,6 +67,7 @@ html_static_path = ['_static']
 # At the bottom of conf.py
 
 import recommonmark
+import sphinx_markdown_tables
 from recommonmark.transform import AutoStructify
 
 def setup(app):
