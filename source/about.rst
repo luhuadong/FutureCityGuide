@@ -5,6 +5,8 @@
 
 .. image:: _static/about_2019.jpeg
 
-联系邮箱：
+联系邮箱  |:email:| 
 
 - luhuadong@163.com
+
+Don't you love it? |:star:|

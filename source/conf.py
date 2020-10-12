@@ -34,7 +34,8 @@ master_doc = 'index'
 # ones.
 extensions = [
     'recommonmark',
-    'sphinx_markdown_tables'
+    'sphinx_markdown_tables',
+    'sphinxemoji.sphinxemoji'
 ]
 
 source_suffix = {
@@ -70,6 +71,8 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+# emoji
+sphinxemoji_style = 'twemoji'
 
 # At the bottom of conf.py
 
