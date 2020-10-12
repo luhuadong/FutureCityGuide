@@ -3,21 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-清远 | 碧桂园·未来城入住指南
+生活篇
 ===========================================
 
 .. toctree::
    :maxdepth: 2
 
-   life/index
-   about
-   contents
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   food
+   fitness
