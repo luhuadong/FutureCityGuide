@@ -11,7 +11,6 @@
 
    life/index
    about
-   contents
 
 
 
