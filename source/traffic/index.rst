@@ -13,5 +13,4 @@
    railway
    bus
    self-driving
-   bike
    
