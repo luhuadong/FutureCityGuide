@@ -11,3 +11,4 @@
 
    overview
    price
+   contact-information
